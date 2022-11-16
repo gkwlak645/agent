@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NaverIDSearchForCafe_V1.0">
+</Property><Property Name="솔루션 파일" Value="D:\개발어플리케이션\NaverIDSearchForCafe_V1.0\NaverIDSearchForCafe_V1.0.sln">
+</Property><Property Name="사용자 옵션 파일" Value="D:\개발어플리케이션\NaverIDSearchForCafe_V1.0\NaverIDSearchForCafe_V1.0.suo">
+</Property><Property Name="Date" Value="2014년 11월 4일 화요일">
+</Property><Property Name="Time" Value="오전 9:43">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="NaverIDSearchForCafe_V1.0.sln" Description="파일을 D:\개발어플리케이션\NaverIDSearchForCafe_V1.0\Backup\NaverIDSearchForCafe_V1.0.sln(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="" Source="NaverIDSearchForCafe_V1.0.suo" Description="파일을 D:\개발어플리케이션\NaverIDSearchForCafe_V1.0\Backup\NaverIDSearchForCafe_V1.0.suo(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="NaverIDSearchForCafe_V1.0" Source="NaverIDSearchForCafe_V1.0\NaverIDSearchForCafe_V1.0.csproj" Description="프로젝트 파일을 D:\개발어플리케이션\NaverIDSearchForCafe_V1.0\Backup\NaverIDSearchForCafe_V1.0\NaverIDSearchForCafe_V1.0.csproj(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="NaverIDSearchForCafe_V1.0" Source="NaverIDSearchForCafe_V1.0\Form1.cs" Description="파일을 D:\개발어플리케이션\NaverIDSearchForCafe_V1.0\Backup\NaverIDSearchForCafe_V1.0\Form1.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="NaverIDSearchForCafe_V1.0" Source="NaverIDSearchForCafe_V1.0\Form1.Designer.cs" Description="파일을 D:\개발어플리케이션\NaverIDSearchForCafe_V1.0\Backup\NaverIDSearchForCafe_V1.0\Form1.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="NaverIDSearchForCafe_V1.0" Source="NaverIDSearchForCafe_V1.0\Program.cs" Description="파일을 D:\개발어플리케이션\NaverIDSearchForCafe_V1.0\Backup\NaverIDSearchForCafe_V1.0\Program.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="NaverIDSearchForCafe_V1.0" Source="NaverIDSearchForCafe_V1.0\Properties\AssemblyInfo.cs" Description="파일을 D:\개발어플리케이션\NaverIDSearchForCafe_V1.0\Backup\NaverIDSearchForCafe_V1.0\Properties\AssemblyInfo.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="NaverIDSearchForCafe_V1.0" Source="NaverIDSearchForCafe_V1.0\Properties\Resources.Designer.cs" Description="파일을 D:\개발어플리케이션\NaverIDSearchForCafe_V1.0\Backup\NaverIDSearchForCafe_V1.0\Properties\Resources.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="NaverIDSearchForCafe_V1.0" Source="NaverIDSearchForCafe_V1.0\Properties\Settings.Designer.cs" Description="파일을 D:\개발어플리케이션\NaverIDSearchForCafe_V1.0\Backup\NaverIDSearchForCafe_V1.0\Properties\Settings.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="NaverIDSearchForCafe_V1.0" Source="NaverIDSearchForCafe_V1.0\Properties\Settings.settings" Description="파일을 D:\개발어플리케이션\NaverIDSearchForCafe_V1.0\Backup\NaverIDSearchForCafe_V1.0\Properties\Settings.settings(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="NaverIDSearchForCafe_V1.0" Source="NaverIDSearchForCafe_V1.0\Form1.resx" Description="파일을 D:\개발어플리케이션\NaverIDSearchForCafe_V1.0\Backup\NaverIDSearchForCafe_V1.0\Form1.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="NaverIDSearchForCafe_V1.0" Source="NaverIDSearchForCafe_V1.0\Properties\Resources.resx" Description="파일을 D:\개발어플리케이션\NaverIDSearchForCafe_V1.0\Backup\NaverIDSearchForCafe_V1.0\Properties\Resources.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="NaverIDSearchForCafe_V1.0" Source="NaverIDSearchForCafe_V1.0\NaverIDSearchForCafe_V1.0.csproj" Description="프로젝트를 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="NaverIDSearchForCafe_V1.0" Source="NaverIDSearchForCafe_V1.0\NaverIDSearchForCafe_V1.0.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NaverIDSearchForCafe_V1.0.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="NaverIDSearchForCafe_V1.0.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NaverIDSearchForCafe_V1.0" Source="NaverIDSearchForCafe_V1.0\NaverIDSearchForCafe_V1.0.csproj" Description="검사 완료: 프로젝트 파일을 업그레이드할 필요가 없습니다.">
+</Event></UpgradeLog>
